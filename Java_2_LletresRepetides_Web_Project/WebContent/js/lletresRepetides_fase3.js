@@ -31,7 +31,7 @@ for(var i=0;i<llistaNom.length;i++){
 }
 
 var nom = llistaNom.toString();
-resultat += nom;
+resultat += "El nom és : [" + nom+"]";
 resultat += "<BR>";
 
 
